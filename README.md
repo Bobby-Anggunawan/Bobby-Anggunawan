@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi.. i'm Bobby
 
+
+## Programming Language
+![c](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/c.png)
+![csharp](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/csharp.png)
+![dart](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/dart.jpg)
+![java](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/java.png)
+![js](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/js.png)
+![kotlin](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/kotlin.jpg)
+![php](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/php.png)
+![python](https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Logo/Language/python.png)
 <!--
 **Bobby-Anggunawan/Bobby-Anggunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
