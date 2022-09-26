@@ -9,8 +9,6 @@
 </div>
 
 </br>
-</br>
-</br>
 
 
 # About Me 💬 :
@@ -27,10 +25,6 @@
 - 🏆 Funded Project by Google and Ministry of Education
 
 </br>
-</br>
-</br>
-
-
 
 # Languages & Tools 👨‍💻:
 </br>
