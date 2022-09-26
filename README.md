@@ -8,8 +8,6 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/nyanpasu.gif">
 </div>
 
-</br>
-
 
 # About Me 💬 :
 
@@ -24,7 +22,6 @@
 - 🏆 Top 15 best capstone project Bangkit 2021
 - 🏆 Funded Project by Google and Ministry of Education
 
-</br>
 
 # Languages & Tools 👨‍💻:
 </br>
