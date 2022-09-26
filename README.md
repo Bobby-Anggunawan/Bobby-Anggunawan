@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=bobbyanggunawan&color=ff69b4)](https://www.instagram.com/bobbyanggunawan/)
 
 <div align="center">
-<img hight="150" alt="GIF" align="center" src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/nyanpasu.gif">
+<img hight="100" alt="GIF" align="center" src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/nyanpasu.gif">
 </div>
 
 
