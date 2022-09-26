@@ -1,5 +1,9 @@
 # Nyanpasu... 👋
 
+[![Linkedin](https://img.shields.io/badge/Linkedin-bobby--ang-blue)](https://www.linkedin.com/in/bobby-ang/)
+[![Email](https://img.shields.io/badge/Email-yeremia.blog%40gmail.com-red)]
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=bobbyanggunawan&color=ff69b4)](https://www.instagram.com/bobbyanggunawan/)
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/nyanpasu.gif">
 </div>
@@ -9,7 +13,7 @@
 </br>
 
 
-# About ME 💬 :
+# About Me 💬 :
 
 ### - I'm a curious programmer who is always looking for new things to learn. Want to gain experience and get new skills 📚
 
@@ -40,11 +44,11 @@
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/unity.png" alt="unity" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/wpf.png" alt="wpf" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/xamarin_android.png" alt="xamarin_android" width="120" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/docker.png" alt="docker" width="120" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/gcp.png" alt="Google Cloud Platform" width="120" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/android_studio_colour.png" alt="Android Studio" width="120" hight="50">
 
 </p>
-</br>
-</br>
-</br>
 
 *************
 <!--
