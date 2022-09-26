@@ -1,7 +1,7 @@
 # Nyanpasu... 👋
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-bobby--ang-blue)](https://www.linkedin.com/in/bobby-ang/)
-[![Email](https://img.shields.io/badge/Email-yeremia.blog%40gmail.com-red)](mailto:yeremia.blog#gmail.com)
+[![Email](https://img.shields.io/badge/Email-yeremia.blog%40gmail.com-red)](mailto:yeremia.blog@gmail.com)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=bobbyanggunawan&color=ff69b4)](https://www.instagram.com/bobbyanggunawan/)
 
 <div align="center">
