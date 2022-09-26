@@ -1,7 +1,7 @@
 # Nyanpasu... 👋
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-bobby--ang-blue)](https://www.linkedin.com/in/bobby-ang/)
-[![Email](https://img.shields.io/badge/Email-yeremia.blog%40gmail.com-red)]
+![Email](https://img.shields.io/badge/Email-yeremia.blog%40gmail.com-red)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=bobbyanggunawan&color=ff69b4)](https://www.instagram.com/bobbyanggunawan/)
 
 <div align="center">
@@ -41,9 +41,15 @@
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/flutter.png" alt="flutter" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/nodejs.png" alt="nodejs" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/react.png" alt="react" width="120" hight="50">
+
+</br>
+
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/unity.png" alt="unity" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/wpf.png" alt="wpf" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/xamarin_android.png" alt="xamarin_android" width="120" hight="50">
+
+</br>
+
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/docker.png" alt="docker" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/gcp.png" alt="Google Cloud Platform" width="120" hight="50">
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/android_studio_colour.png" alt="Android Studio" width="120" hight="50">
