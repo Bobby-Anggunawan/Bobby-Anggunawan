@@ -38,21 +38,17 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/flutter.png" alt="flutter" width="120" hight="50">
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/nodejs.png" alt="nodejs" width="120" hight="50">
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/react.png" alt="react" width="120" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/flutter.png" alt="flutter" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/nodejs.png" alt="nodejs" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/react.png" alt="react" hight="50">
 
-</br>
-
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/unity.png" alt="unity" width="120" hight="50">
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/wpf.png" alt="wpf" width="120" hight="50">
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/xamarin_android.png" alt="xamarin_android" width="120" hight="50">
-
-</br>
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/unity.png" alt="unity" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/wpf.png" alt="wpf" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/xamarin_android.png" alt="xamarin_android" hight="50">
 
 <img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/docker.png" alt="docker" width="120" hight="50">
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/gcp.png" alt="Google Cloud Platform" width="120" hight="50">
-<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/android_studio_colour.png" alt="Android Studio" width="120" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/gcp.png" alt="Google Cloud Platform" hight="50">
+<img src="https://github.com/Bobby-Anggunawan/Bobby-Anggunawan/blob/main/Assets/Icon/android_studio_colour.png" alt="Android Studio" hight="50">
 
 </p>
 
